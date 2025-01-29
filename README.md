@@ -80,7 +80,22 @@ The system is powered by an Arduino and includes the following components:
 
 ---
 
-## Contributors 🫶
+## Contributing 🤝
+
+This is a personal learning project, but contributions and suggestions are welcome! 
+<br> If you find any improvements, feel free to create a pull request. To contribute:
+
+1. Fork the repository.
+
+2. Create a new branch for your feature/bug fix.
+
+3. Commit your changes and submit a pull request.
+
+---
+
+## Authors 📎
 
 - Anushka Banerjee [@anushka369](https://github.com/anushka369)
 - Shashank Singh [@shashankexore](https://github.com/shashankexore)
+
+---
